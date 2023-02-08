@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-add file a
-=======
 add file A
->>>>>>> feature/hieu
